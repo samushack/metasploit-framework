@@ -1,4 +1,3 @@
-
 Metasploit [![Build Status](https://travis-ci.org/rapid7/metasploit-framework.png)](https://travis-ci.org/rapid7/metasploit-framework) [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/rapid7/metasploit-framework)
 ==
 The Metasploit Framework is released under a BSD-style license. See
@@ -53,4 +52,4 @@ pull request. For slightly more info, see
 [wiki-usage]: https://github.com/rapid7/metasploit-framework/wiki/Using-Metasploit "Using Metasploit"
 [unleashed]: http://www.offensive-security.com/metasploit-unleashed/ "Metasploit Unleashed"
 
-
+[By Samushack]
